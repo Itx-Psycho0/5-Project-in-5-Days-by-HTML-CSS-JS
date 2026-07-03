@@ -1,4 +1,4 @@
-# 50 Projects in 50 Days - HTML, CSS, JavaScript 🚀
+# 5 Projects in 5 Days - HTML, CSS, JavaScript 🚀
 
 Welcome to my challenge of building **5 mini web development projects in 5 days** using **HTML**, **CSS**, and **JavaScript**.
 
