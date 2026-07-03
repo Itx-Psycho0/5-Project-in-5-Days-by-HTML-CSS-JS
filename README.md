@@ -1,6 +1,6 @@
 # 50 Projects in 50 Days - HTML, CSS, JavaScript 🚀
 
-Welcome to my challenge of building **50 mini web development projects in 50 days** using **HTML**, **CSS**, and **JavaScript**.
+Welcome to my challenge of building **5 mini web development projects in 5 days** using **HTML**, **CSS**, and **JavaScript**.
 
 > 💡 This journey will help me gain practical web development experience and escape "tutorial hell" by building real, working projects every single day.
 
